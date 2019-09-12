@@ -3,11 +3,6 @@ Created on Sep 10, 2019
 
 @author: monky
 '''
-'''
-Created on Sep 9, 2019
-
-@author: mitom
-'''
 
 import torch.nn as nn
 import torch.nn.functional as F
